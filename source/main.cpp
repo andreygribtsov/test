@@ -1,7 +1,7 @@
-#include <iostream>
+#include "print.h"
 
 int main(){
-    std::cout << "Hello" << std::endl;
+    print();
 
 
 }
